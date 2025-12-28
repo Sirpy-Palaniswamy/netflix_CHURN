@@ -82,13 +82,13 @@ The model captures nearly half of churned users (high recall) but produces many 
 ##  Visual Diagnostics
 
 ### ROC Curve
-![ROC Curve](visuals/roc_curve.png)
+![ROC Curve](visuals/ROC_Curve.png)
 
 ### Confusion Matrix
 ![Confusion Matrix](visuals/confusion_matrix.png)
 
 ### Feature Coefficients
-![Coefficients](visuals/coefficient_plot.png)
+![Coefficients](visuals/Top_Churn_Drivers.png)
 
 ## Business Interpretation
 - Suitable for early churn warning systems
