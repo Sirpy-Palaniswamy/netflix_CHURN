@@ -1,7 +1,7 @@
 # Netflix 風 解約予測分析 (Churn Analysis)
 <div align="center">
   
-[English](readme/English_README.md) | [日本語](readme/jp_README.md)
+[English](English_README.md) | [日本語](jp_README.md)
 </div>
 
 ## プロジェクト概要
